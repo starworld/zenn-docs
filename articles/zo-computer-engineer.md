@@ -3,7 +3,7 @@ title: "起業家がハイスペックVPS・Dropbox・Vercelを解約してZoに
 emoji: "💰"
 type: "idea"
 topics: ["ai", "個人開発", "saas", "自動化", "起業"]
-published: false
+published: true
 ---
 
 ## Zoを試すきっかけは、知人の一言だった
